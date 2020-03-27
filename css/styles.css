@@ -1,0 +1,100 @@
+body {
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
+}
+
+h1 {
+	color: #66BFBF;
+	font-size: 5.625rem;
+	padding-top: 150px;
+	font-family: 'Sacramento', cursive;
+	font-weight: 500;
+	line-height: 2;
+
+}
+
+.hostPara {
+    color: #45b29a;
+    font-size: 120%;
+    font-weight: 250;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+h2 {
+	color: #66BFBF;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+h3 {
+	color: #66BFBF;
+	font-size: 150%;
+	font-family: 'Montserrat', sans-serif;	
+
+}
+
+
+.top-container {
+	background-color: #E0EBE8;
+	position: relative;
+
+}
+
+.im1 {
+	position: absolute;
+	top: 90px;
+	right: 325px;
+	
+}
+.im2 {
+	position: absolute;
+	top: 320px;
+	left: 325px;
+	
+}
+
+.profile {
+	margin-bottom: 60px;
+	margin-top: 60px;
+}
+
+.mountain {
+	margin-top: -23px;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+	height: 200px;
+}
+
+.skill-img {
+	width: 25%;
+	float: left;
+	margin-right: 70px;
+}
+
+.chill-img {
+	width: 27%;
+	float: right;
+	
+}
+
+.contact-me {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: center;
+	line-height: 5;
+}
+
+.bottom-container {
+	text-align: center;
+	line-height: 3;
+	color: #EAF6F6;
+	background-color: #66BFBF;
+	padding-top: 30px;
+}
