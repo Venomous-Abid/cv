@@ -1,2 +1,2 @@
-# cv
-Just Practicing One
+# A Porfolio Website
+# Created With Raw Html & CSS
